@@ -1,4 +1,4 @@
-<center><img src="https://cdn.discordapp.com/attachments/1100091352643022908/1158532831748821115/image.png?ex=651c9747&is=651b45c7&hm=6e4f60b75767c60470038af2d999b617edf7e72f71fd7a083f7ad8f4e7c291ad&" alt="Крафторія Лого" width="512"/></center>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/1100091352643022908/1158532831748821115/image.png?ex=651c9747&is=651b45c7&hm=6e4f60b75767c60470038af2d999b617edf7e72f71fd7a083f7ad8f4e7c291ad&" alt="Крафторія Лого" width="768" /></p>
 
 
 👋 Вітаю! Це офіційна GitHub організація проекту **Крафторія**
